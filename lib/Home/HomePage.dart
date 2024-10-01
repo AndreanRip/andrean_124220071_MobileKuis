@@ -66,7 +66,7 @@ class HomePage extends StatelessWidget {
                     child: Text("Pelajari teknis lebih lanjut"),
                     style: ElevatedButton.styleFrom(
                       foregroundColor: Colors.white,
-                      backgroundColor: Colors.purple, // Text color
+                      backgroundColor: Colors.purple,
                     ),
                   ),
                   SizedBox(height: 16),
